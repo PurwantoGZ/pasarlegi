@@ -34,7 +34,7 @@
 <!-- Body -->
 <body>
 
-    <h1>APP LAUNCH COUNTDOWN WIDGET</h1>
+    <h1>PasarLegi.com</h1>
 
     <div class="w3layouts app-text agileits">
         <ul>
@@ -90,7 +90,7 @@
     </div>
 
     <div class="footer">
-        <p> &copy; 2017 App Launch Countdown Widget. All Rights Reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+        <p> &copy; 2017 PasarLegi.com | Design by <a href="http://w3layouts.com">W3layouts</a></p>
     </div>
 
     <!-- Custom-JavaScript-File-Links -->
